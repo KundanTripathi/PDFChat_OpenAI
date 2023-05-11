@@ -1,2 +1,2 @@
 # PDFChat_OpenAI
-PDFUpload-Langchain-PromptTemplate-Streamlit
+PDFUpload-Langchain-PromptTemplate
